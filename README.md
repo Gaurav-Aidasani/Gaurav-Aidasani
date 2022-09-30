@@ -3,7 +3,7 @@
 ## Software Engineer 
 
 - 👀 I’m interested in Software Dev / Machine learning / Open source developement
-- 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/ruch0401/)
+- 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/gaurav-aidasani/)
 
 ### Languages and Tools: 
 
