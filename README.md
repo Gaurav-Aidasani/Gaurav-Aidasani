@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Gaurav-Aidasani
 ### Hi there, I'm Gaurav Aidasani 👋
 
 ## Software Engineer 
