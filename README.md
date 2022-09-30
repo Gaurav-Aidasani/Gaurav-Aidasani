@@ -3,6 +3,7 @@
 ## Software Engineer 
 
 - 👀 I’m interested in Software Dev / Machine learning / Open source developement
+- 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/ruch0401/)
 
 ### Languages and Tools: 
 
